@@ -11,25 +11,25 @@
       "id": "2",
       "translation": "Waktu yang digunakan untuk menunggu atau antri, akan sia-sia jika tidak diisi dengan hal-hal yang bermanfaat",
       "author": "Dr. Khalid Al Mushlih",
-      "type": "word of wisdom",
+      "type": "word of wisdom"
     },
     {
       "id": "3",
       "translation": "Mata adalah panca indra yang paling cepat pengaruhnya terhadap hati seseorang",
       "author": "Dr. Khalid Al Mushlih",
-      "type": "word of wisdom",
+      "type": "word of wisdom"
     },
     {
       "id": "4",
       "translation": "Bacalah sejarah karena di dalamnya ada banyak pelajaran, mereka yang tak paham sejarah akan alami kesesatan. Permisalan suatu kaum yang lupa sejarahnya adalah seperti anak pungut yang bernasab pada siapa saja manusia",
       "author": "Dr. Yahya bin Ibrahim Al Yahya",
-      "type": "word of wisdom",
+      "type": "word of wisdom"
     },
     {
       "id": "5",
       "translation": "Bersedekah dan memenuhi kebutuhan orang-orang miskin adalah sebab datangnya pertolongan dan rezeki. Rasulullah shallallahu ‘alaihi wa sallam bersabda, \"Sesungguhnya kalian akan dimenangkan dan diberikan rizki karena sebab orang-orang lemah di antara kalian\"",
       "author": "Dr. Muhammad bin Abdurrahman Al ‘Arifi",
-      "type": "word of wisdom",
+      "type": "word of wisdom"
     },
     {
       "id": "6",
@@ -219,7 +219,8 @@
     {
       "id": "36",
       "matan": "إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ التَّقِىَّ الْغَنِىَّ الْخَفِىَّ",
-      "translation": "Sesungguhnya Allah mencintai hamba yang bertakwa, hamba yang hatinya selalu merasa cukup dan yang suka mengasingkan diri - Sa’ad bin Abi Waqqash"
+      "translation": "Sesungguhnya Allah mencintai hamba yang bertakwa, hamba yang hatinya selalu merasa cukup dan yang suka mengasingkan diri - Sa’ad bin Abi Waqqash",
+      "author": "HR. Muslim no. 2965",
       "type": "verse"
     },
     {
@@ -229,18 +230,21 @@
     },
     {
       "id": "38",
-      "translation": "Apabila Allah menghendaki kebaikan bagi hamba-Nya, maka Allah menyegerakan hukumannya di dunia. Dan apabila Allah menghendaki kejelekan bagi hamba-Nya, maka Allah menahan hukuman atas dosanya sampai dibalas pada hari kiamat"
+      "translation": "Apabila Allah menghendaki kebaikan bagi hamba-Nya, maka Allah menyegerakan hukumannya di dunia. Dan apabila Allah menghendaki kejelekan bagi hamba-Nya, maka Allah menahan hukuman atas dosanya sampai dibalas pada hari kiamat",
+      "author": "HR. At-Tirmidzi dari Anas bin Malik radhiyallahu'anhu. Shahihul Jaami': 308",
       "type": "word of wisdom"
     },
     {
       "id": "39",
-      "translation": "Bersabarlah, musibah bisa menghapus dosa \"Tidak henti-hentinya musibah menimpa seorang mukmin dan mukminah pada dirinya, anaknya, dan hartanya, sampai ia berjumpa dengan Allah tanpa dosa sedikitpun\""
+      "translation": "Bersabarlah, musibah bisa menghapus dosa \"Tidak henti-hentinya musibah menimpa seorang mukmin dan mukminah pada dirinya, anaknya, dan hartanya, sampai ia berjumpa dengan Allah tanpa dosa sedikitpun\"",
+      "author": "HR. At-Tirmidzi dari Abu Hurairah radhiyallahu'anhu. Ash-Shahihah: 2280",
       "type": "word of wisdom"
     },
     {
       "id": "40",
       "matan": "مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ وَمَا زَادَ اللَّهُ عَبْدًا بِعَفْوٍ إِلاَّ عِزًّا وَمَا تَوَاضَعَ أَحَدٌ لِلَّهِ إِلاَّ رَفَعَهُ اللَّ",
-      "translation": "Tidaklah sedekah itu mengurangi harta, tidaklah Allah menambahkan kepada seorang hamba yang memaafkan kecuali keperkasaan, dan tidaklah seseorang merendah karena Allah kecuali Allah akan mengangkatnya"
+      "translation": "Tidaklah sedekah itu mengurangi harta, tidaklah Allah menambahkan kepada seorang hamba yang memaafkan kecuali keperkasaan, dan tidaklah seseorang merendah karena Allah kecuali Allah akan mengangkatnya",
+      "author": "HR Muslim no 2588",
       "type": "verse"
     },
     {
@@ -263,18 +267,21 @@
     {
       "id": "44",
       "matan": "يُغْفَرُ لِلشَّهِيدِ كُلُّ ذَنْبٍ إِلاَّ الدَّيْنَ",
-      "translation": "Terbunuh di jalan Allah menghapuskan (dosa) seluruhnya, kecuali hutang"
+      "translation": "Terbunuh di jalan Allah menghapuskan (dosa) seluruhnya, kecuali hutang",
+      "author": "HR. Muslim no. 1886",
       "type": "verse"
     },
     {
       "id": "45",
-      "translation": "Rasulullah Shallallahu ‘alaihi wa sallam bersabda: \"Teladanilah 2 orang sesudahku, yaitu Abu Bakar & Umar\""
+      "translation": "Rasulullah Shallallahu ‘alaihi wa sallam bersabda: \"Teladanilah 2 orang sesudahku, yaitu Abu Bakar & Umar\"",
+      "author": "HR Tirmidzi disahihkan Al Albani",
       "type": "word of wisdom"
     },
     {
       "id": "46",
       "translation": "Siapa yang menolong saudaranya dalam kebutuhannya, maka Allah Azza wa Jalla pun akan menolongnya dalam kebutuhannya",
-      "type": "word of wisdom"
+      "type": "word of wisdom",
+      "author": "HR. Bukhari"
     },
     {
       "id": "47",
@@ -285,7 +292,8 @@
     {
       "id": "48",
       "matan": "مَا يُصِيبُ الْمُسْلِمَ مِنْ نَصَبٍ وَلَا وَصَبٍ وَلَا هَمٍّ وَلَا حُزْنٍ وَلَا أَذًى وَلَا غَمٍّ حَتَّى الشَّوْكَةِ يُشَاكُهَا إِلَّا كَفَّرَ اللَّهُ بِهَا مِنْ خَطَايَاهُ",
-      "translation": "Tidaklah seorang muslim tertimpa suatu kelelahan, atau penyakit, atau kehawatiran, atau kesedihan, atau gangguan, bahkan duri yang melukainya melainkan Allah akan menghapus kesalahan-kesalahannya karenanya"
+      "translation": "Tidaklah seorang muslim tertimpa suatu kelelahan, atau penyakit, atau kehawatiran, atau kesedihan, atau gangguan, bahkan duri yang melukainya melainkan Allah akan menghapus kesalahan-kesalahannya karenanya",
+      "author": "HR. Al-Bukhari no. 5642 dan Muslim no. 2573",
       "type": "verse"
     },
     {
@@ -340,7 +348,8 @@
     {
       "id": "57",
       "translation": "Siapa yang menempuh jalan untuk mencari ilmu, maka Allah akan memudahkan baginya jalan menuju surga",
-      "type": "word of wisdom"
+      "type": "word of wisdom",
+      "author": "HR. Muslim"
     },
     {
       "id": "58",
@@ -427,7 +436,8 @@
     {
       "id": "71",
       "translation": "Jika kamu berada di waktu sore, janganlah tunggu waktu pagi. Jika engkau berada di waktu pagi, janganlah menunggu sore hari. Pergunakanlah sehatmu sebelum datang sakitmu, dan pergunakanlah hidupmu sebelum datang kematianmu",
-      "type": "word of wisdom"
+      "type": "word of wisdom",
+      "author": "HR Bukhari"
     },
     {
       "id": "72",
@@ -445,13 +455,15 @@
       "id": "74",
       "matan": "إنَّ أَوَّلَ مَا يُحَاسَبُ بِهِ العَبْدُ يَوْمَ القِيَامَةِ مِنْ عَمَلِهِ صَلاَتُهُ ، فَإنْ صَلُحَتْ ، فَقَدْ أفْلَحَ وأَنْجَحَ ، وَإنْ فَسَدَتْ ، فَقَدْ خَابَ وَخَسِرَ ",
       "translation": "Sesungguhnya amal yang pertama kali dihisab pada seorang hamba pada hari kiamat adalah shalatnya. Maka, jika shalatnya baik, sungguh ia telah beruntung dan berhasil. Dan jika shalatnya rusak, sungguh ia telah gagal dan rugi.",
-      "type": "verse"
+      "type": "verse",
+      "author": "HR. At-Tirmidzi no. 413, An-Nasa’i no. 465, dishahihkan oleh Syaikh-Al Albani dalam Shahih Al Jami’"
     },
     {
       "id": "75",
       "matan": "إِنَّ الرِّفْقَ لاَ يَكُونُ فِى شَىْءٍ إِلاَّ زَانَهُ وَلاَ يُنْزَعُ مِنْ شَىْءٍ إِلاَّ شَانَهُ",
       "translation": "Sesungguhnya kelembutan tidaklah diberikan pada segala urusan melainkan akan menghiasinya, dan tidaklah kelembutan ditarik dari tiap urusan kecuali akan menjadikannya buruk.",
-      "type": "verse"
+      "type": "verse",
+      "author": "HR Muslim no: 2594"
     },
     {
       "id": "76",
@@ -464,7 +476,8 @@
       "id": "77",
       "matan": "مَنْ نَفَّسَ عَنْ مُؤْمِنٍ كُرْبَةً مِنْ كُرَبِ الدُّنْيَا نَفَّسَ اللَّهُ عَنْهُ كُرْبَةً مِنْ كُرَبِ يَوْمِ الْقِيَامَةِ، وَمَنْ يَسَّرَ عَلَى مُعْسِرٍ يَسَّرَ اللَّهُ عَلَيْهِ فِى الدُّنْيَا وَالآخِرَةِ",
       "translation": "Barangsiapa yang membantu seorang muslim (dalam) suatu kesusahan di dunia maka Allah akan menolongnya dalam kesusahan pada hari kiamat, dan barangsiapa yang meringankan (beban) seorang muslim yang sedang kesulitan maka Allah akan meringankan (bebannya) di dunia dan akhirat.",
-      "type": "verse"
+      "type": "verse",
+      "author": "HR. Muslim, no. 2699"
     },
     {
       "id": "78",
@@ -477,13 +490,15 @@
       "id": "79",
       "matan": "عَيْنَانِ لاَ تَمَسُّهُمَا النَّارُ عَيْنٌ بَكَتْ مِنْ خَشْيَةِ اللَّهِ وَعَيْنٌ بَاتَتْ تَحْرُسُ فِى سَبِيلِ اللَّهِ",
       "translation": "Dua mata yang tidak akan tersentuh oleh api neraka yaitu mata yang menangis karena takut kepada Allah dan mata yang bermalam (begadang) untuk berjaga-jaga (dari serangan musuh) ketika berperang di jalan Allah.",
-      "type": "verse"
+      "type": "verse",
+      "author": "HR. Tirmidzi, no. 1639, disahihkan Syaikh Al Albani dalam Sahih Sunan At-Tirmizi 1338"
     },
     {
       "id": "80",
       "matan": "عِظَمُ الْجَزَاءِ مَعَ عِظَمِ الْبَلاَءِ وَإِنَّ اللَّهَ إِذَا أَحَبَّ قَوْمًا ابْتَلاَهُمْ فَمَنْ رَضِيَ فَلَهُ الرِّضَا وَمَنْ سَخِطَ فَلَهُ السُّخْطُ",
       "translation": "Sesungguhnya besarnya pahala tergantung dengan besarnya ujian. Sesungguhnya, apabila Allâh mencintai suatu kaum, maka Dia akan mengujinya. Siapa yang ridha dengan ujian itu, maka ia akan mendapat keridhaan-Nya. Siapa yang membencinya maka ia akan mendapatkan kemurkaan-Nya.",
-      "type": "verse"
+      "type": "verse",
+      "author": "HR. at-Tirmidzi no. 2396 dan Ibnu Majah no. 4031 (Ash-Shahîhah no. 146)"
     },
     {
       "id": "81",
@@ -502,7 +517,8 @@
       "id": "83",
       "matan": "انْظُرُوا إِلَى مَنْ أَسْفَلَ مِنْكُمْ وَلاَ تَنْظُرُوا إِلَى مَنْ هُوَ فَوْقَكُمْ فَهُوَ أَجْدَرُ أَنْ لاَ تَزْدَرُوا نِعْمَةَ اللَّهِ",
       "translation": "Pandanglah orang yang berada di bawahmu (dalam masalah harta dan dunia) dan janganlah engkau pandang orang yang berada di atasmu (dalam masalah ini). Dengan demikian, hal itu akan membuatmu tidak meremehkan nikmat Allah padamu.",
-      "type": "verse"
+      "type": "verse",
+      "author": "HR. Muslim no. 2963"
     }
   ]
 }
